@@ -1,0 +1,8 @@
+/// @description Initialize Variables
+
+slider_value = 0;
+slider_max_value = 1;
+slider_value_percentage = 0;
+slider_button_selected = false;
+image_speed = 0;
+image_index = 0;

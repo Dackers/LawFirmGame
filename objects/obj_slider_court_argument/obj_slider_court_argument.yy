@@ -2,7 +2,7 @@
     "id": "a2dae7cb-c19d-4eec-b5b5-daee85037232",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_slider_court_law",
+    "name": "obj_slider_court_argument",
     "eventList": [
         {
             "id": "9c0c3a11-f43a-40a6-86a4-12b7fda33360",

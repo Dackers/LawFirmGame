@@ -2,4 +2,4 @@
 
 event_inherited();
 
-slider_title = "Legal Argument"
+slider_title = "Argument"
